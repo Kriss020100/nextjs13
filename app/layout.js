@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Roboto } from "@next/font/google";
 
-const roboto = Roboto({ weight: "600", preload: false });
+const roboto = Roboto({ weight: "500", preload: false });
 export default function RootLayout({ children }) {
   return (
     <html className={roboto.className}>
