@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Kriss</>;
+  return <>BECOME SDE IS F_UCKING HARD IF YOU CANT STICK WITH IT/CONSTISTENT</>;
 }
